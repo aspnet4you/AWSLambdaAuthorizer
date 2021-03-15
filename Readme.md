@@ -3,6 +3,7 @@
 This starter project consists of:
 * Function.cs - class file containing a class with a single function handler method
 * aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
+* Find helpful tips at https://blogs.aspnet4you.com/2021/03/15/secure-your-business-api-with-mtls/ if you are trying to integrate with AWS Api Gateway.
 
 You may also have a test project depending on the options selected.
 
